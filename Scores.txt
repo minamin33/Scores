@@ -1,0 +1,35 @@
+Description
+
+Read in number of scores that is entered by the user, the values of those scores and output the highest score and the average score; then, for each score, output the amount by which that score differs from the average. 
+
+Use the java array data structure to save the scores. 
+
+Sample output (again, user's input is underlined):
+
+How many scores? 5
+
+Enter a score: 65.8
+
+Enter a score: 99
+
+Enter a score: 87.5
+
+Enter a score: 88
+
+Enter a score: 100
+
+The highest score is 100
+
+The average score is 88.06    
+
+ 
+
+65.8 is below average by 22.26         
+
+99 is above average by 10.94
+
+87.5 is below average by 0.56
+
+88 is below average by 0.06  
+
+100 is above average by 11.94          
