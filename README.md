@@ -1,1 +1,1 @@
-# Scores
+Gets how many scores and the score of each one. Once the code has this key information it will autogenerate the average and the highest score among the ones given. Then it will give the difference between the average and each score for the user.
